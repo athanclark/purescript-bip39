@@ -12,6 +12,7 @@
     "purescript-nullable": "^3.0.0",
     "purescript-arraybuffer-types": "^2.0.0"
   },
+  "license": "BSD-3-Clause",
   "devDependencies": {
     "purescript-psci-support": "^3.0.0"
   }
